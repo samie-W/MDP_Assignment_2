@@ -1,0 +1,6 @@
+-------------external libraries (packages)
+streamlit
+numpy
+pandas
+plotly
+matplotlib
